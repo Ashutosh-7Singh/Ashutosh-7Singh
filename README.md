@@ -54,7 +54,7 @@ With expertise in **MongoDB, Express.js, React.js, and Node.js**, I bring dynami
 #### **DevTinder** *(Ongoing)*  
 A platform for developers to connect, collaborate, and network.  
 **Tech Stack:** Node.js, JWT, bcrypt, React.js, TailwindCSS.  
-🔗 [Explore the Repo](#)
+🔗 [Explore the Repo](https://github.com/Ashutosh-7Singh/devTinder.git)
 
 #### **Timesheet Management System**  
 Track employee hours with a secure and intuitive interface.  
