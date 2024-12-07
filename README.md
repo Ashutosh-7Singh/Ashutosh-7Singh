@@ -1,95 +1,117 @@
-<h1 align="center">👋 Welcome to My GitHub Universe!</h1>
+```markdown
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF5733&width=900&lines=Hello,+I'm+Ashutosh+Singh+%F0%9F%91%8B;MERN+Stack+Developer+%7C+Tech+Explorer+%F0%9F%94%A5;Crafting+Scalable,+Secure,+and+Stunning+Apps;Let's+Code+Something+Awesome+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=800&lines=Hey+there!+I'm+Ashutosh+Singh;MERN+Stack+Developer+%F0%9F%94%A1+and+Tech+Enthusiast;Building+Secure%2C+Scalable+Applications;Let's+create+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Hey! I’m **Ashutosh Singh**, a tech enthusiast passionate about creating digital solutions that blend **efficiency**, **security**, and **aesthetic appeal**. As a **MERN Stack Developer** and **Associate Technologist Consultant**, I love crafting web applications that solve real-world problems.
+I’m **Ashutosh Singh**, an **Associate Technologist Consultant** and a passionate **MERN Stack Developer**! My focus lies in creating innovative, secure, and high-performance web applications that deliver real value to users.
 
-🔭 **Tech Wizardry:**  
-With **MongoDB**, **Express.js**, **React.js**, and **Node.js**, I build scalable and innovative platforms. From UI to backend, every pixel and function matters.
-
----
-
-### 🔧 Toolbox
-
-#### **Frontend Magic:**  
-- React.js, Next.js, TailwindCSS, Material-UI, Mantine-UI  
-#### **Backend Power:**  
-- Node.js, Express.js, MongoDB, JWT Authentication  
-#### **Dev Essentials:**  
-- Git, Postman, PostgreSQL, Linux  
-#### **Specialties:**  
-- Performance Tuning | Clean Code | Cybersecurity | Scalable Architectures
+🌟 **Tech Enthusiast | MERN Stack Developer | Problem Solver**  
+With expertise in **MongoDB, Express.js, React.js, and Node.js**, I bring dynamic, scalable, and user-centric solutions to life. Whether it’s building sleek frontends or robust backends, I’m all about seamless experiences.
 
 ---
 
-### 🌟 My Superpowers
-- **Idea-to-Execution Expert:** From brainstorming to deployment, I love turning ideas into user-centric solutions.
-- **Future-Proof Design:** Building scalable apps that evolve with user needs.
-- **Code Alchemist:** Transforming complex logic into elegant, maintainable code.
+### 🔧 My Skills
+
+#### **Frontend:**
+- React.js, Next.js, TailwindCSS, Material-UI, Mantine-UI
+#### **Backend:**
+- Node.js, Express.js, MongoDB
+#### **Tools & Platforms:**
+- Git, Postman, JWT, PostgreSQL, Linux, Web, Windows
+#### **Focus:**
+- Clean Code | Performance Optimization | Security | Scalability
 
 ---
 
-### 🎯 GitHub Highlights
+### 🌟 What I Do Best
+- **Transform Ideas into Reality:** Crafting efficient, maintainable solutions from complex requirements.
+- **Build Scalable Web Applications:** Designing applications that grow with your needs.
+- **Solve Real-World Problems:** Tackling challenges with impactful, meaningful solutions.
+
+---
+
+### 💥 Why Choose Me?
+- **Innovative Solutions:** I explore the latest tech trends to build feature-rich platforms.
+- **Commitment to Quality:** From secure authentication to performance tuning, every detail matters.
+- **Collaborative Spirit:** Thriving in team environments to create extraordinary outcomes.
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-7Singh&show_icons=true&theme=radical" alt="Ashutosh's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-7Singh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Projects
+
+#### **DevTinder** *(Ongoing)*  
+A platform for developers to connect, collaborate, and network.  
+**Tech Stack:** Node.js, JWT, bcrypt, React.js, TailwindCSS.  
+🔗 [Explore the Repo](#)
+
+#### **Timesheet Management System**  
+Track employee hours with a secure and intuitive interface.  
+**Tech Stack:** Node.js, Express.js, React.js, JWT, PostgreSQL.
+
+#### **Storydek**  
+A super app with OTT streaming, food ordering, and event booking features.  
+**Tech Stack:** React.js, Mantine-UI, Node.js.
+
+#### **Quiz App with Monaco Code Editor**  
+Interactive code editor for programming quizzes.  
+**Tech Stack:** React.js, JavaScript, Monaco Code Editor.
+
+#### **GA Blogs**  
+A blogging platform for tech enthusiasts.  
+**Tech Stack:** TailwindCSS, React.js, Node.js.
+
+---
+
+### 🌱 Currently Learning
+- Advanced concepts in **Node.js** and **React.js**.
+- **DevOps tools** for CI/CD pipelines.
+- **AI/ML integration** in web applications.
+
+---
+
+### 💞️ Looking to Collaborate On
+- **Open-source initiatives** in web and software development.
+- **Hackathons** or competitive coding challenges.
+- Projects prioritizing **security**, **scalability**, and **performance**.
+
+---
+
+### 🏆 Certifications
+- **Frontend Hackathon** - Go Academy.
+- **Web Development** - Internshala.
+- **Namaste JavaScript** - Certificate of Completion.
+- **Namaste Node.js** - Certificate of Completion.
+- **Namaste React** - Certificate of Completion.
+
+---
+
+### 🎉 Fun Facts About Me
+- **Pronouns:** He/Him
+- A fan of **minimalist UI design** and exploring **new libraries**.
+- When not coding, I’m reading, sketching, or coordinating **campus events**.
+
+---
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-7Singh&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🚀 **DevTinder** *(Ongoing)*  
-A networking hub for developers to connect and collaborate.  
-**Stack:** Node.js, React.js, TailwindCSS, JWT.  
-🔗 [Explore the Repo](#)
-
-#### 📊 **Timesheet Management System**  
-Track hours, stay secure, and simplify workflows.  
-**Stack:** Node.js, Express.js, React.js, PostgreSQL.
-
-#### 🍿 **Storydek**  
-An all-in-one super app for OTT, food, and events.  
-**Stack:** React.js, Mantine-UI, Node.js.
-
-#### 💻 **Interactive Quiz App**  
-Real-time programming quizzes with an integrated code editor.  
-**Stack:** React.js, JavaScript, Monaco Editor.
-
-#### ✍️ **GA Blogs**  
-A blog haven for tech enthusiasts and developers.  
-**Stack:** TailwindCSS, React.js, Node.js.
-
----
-
-### 🌱 Currently Exploring  
-- **Advanced React Patterns**  
-- **DevOps Integration (CI/CD)**  
-- **AI/ML APIs for Enhanced Web Apps**  
-
----
-
-### 🎓 Certifications
-- **Frontend Hackathon Winner** - Go Academy.  
-- **Full-Stack Web Development** - Internshala.  
-- **Namaste JavaScript, Node.js, React** - [Completion Certificates](#).
-
----
-
-### ✨ Fun Facts
-- **Pronouns:** He/Him  
-- Advocate for **minimalist design** and **open-source projects**.  
-- Avid reader, sketch artist, and event coordinator.  
-
----
-
-### 🌐 Let’s Connect
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:5604ashutosh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -99,4 +121,6 @@ A blog haven for tech enthusiasts and developers.
 
 ---
 
-<h3 align="center">Together, let’s innovate and inspire! 🚀</h3>
+<h3 align="center">Let’s build something amazing together! 🚀</h3>
+```
+
