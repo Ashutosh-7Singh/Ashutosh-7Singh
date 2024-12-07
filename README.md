@@ -1,6 +1,14 @@
 # 👋 Hi there, I'm Ashutosh Singh!
 
-Welcome to my GitHub profile! I'm an **Associate Technologist Consultant** with a passion for crafting efficient, secure, and innovative software solutions. With expertise in **full-stack development** and a knack for turning ideas into reality, I aim to create impactful applications that make a difference.
+Welcome to my GitHub profile! I'm an Associate Technologist Consultant and a passionate MERN stack developer with a talent for crafting efficient, secure, and innovative software solutions.
+
+With a strong command of MongoDB, Express.js, React.js, and Node.js, I specialize in building dynamic, scalable, and user-friendly web applications. From designing intuitive frontends to developing robust backends, I bring ideas to life with precision and creativity.
+
+I thrive on solving complex problems, optimizing performance, and delivering impactful applications that make a difference. My focus on clean code, security, and scalability ensures every project I undertake meets the highest standards of quality.
+
+Whether it's creating feature-rich platforms or exploring cutting-edge technologies, I strive to push boundaries and continuously enhance my skills. Let's build something extraordinary together! 🚀
+
+
 
 ---
 
