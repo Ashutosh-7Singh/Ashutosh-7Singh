@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=800&lines=Hey+there!+I'm+Ashutosh+Singh;MERN+Stack+Developer+%F0%9F%94%A1+and+Tech+Enthusiast;Building+Secure%2C+Scalable+Applications;Let's+create+something+amazing+together!" alt="Typing SVG" />
