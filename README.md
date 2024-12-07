@@ -9,8 +9,8 @@
 
 I’m **Ashutosh Singh**, an **Associate Technologist Consultant** and a passionate **MERN Stack Developer**! My focus lies in creating innovative, secure, and high-performance web applications that deliver real value to users.
 
-🌟 **Tech Enthusiast | MERN Stack Developer | Problem Solver**  
-With expertise in **MongoDB, Express.js, React.js, and Node.js**, I bring dynamic, scalable, and user-centric solutions to life. Whether it’s building sleek frontends or robust backends, I’m all about seamless experiences.
+🌟 **Tech Enthusiast |💻 MERN Stack Developer | 🌐 Problem Solver**  
+With expertise in **MongoDB, Express.js, React.js, and Node.js**, I bring dynamic, scalable, and user-centric solutions to life.  From building sleek, intuitive frontends with React.js to developing robust and secure backends with Node.js and Express.js, I’m all about creating seamless experiences.
 
 ---
 
@@ -54,7 +54,7 @@ With expertise in **MongoDB, Express.js, React.js, and Node.js**, I bring dynami
 #### **DevTinder** *(Ongoing)*  
 A platform for developers to connect, collaborate, and network.  
 **Tech Stack:** Node.js, JWT, bcrypt, React.js, TailwindCSS.  
-🔗 [Explore the Repo](#)
+🔗 [Explore the Repo](https://github.com/Ashutosh-7Singh/devTinder.git)
 
 #### **Timesheet Management System**  
 Track employee hours with a secure and intuitive interface.  
