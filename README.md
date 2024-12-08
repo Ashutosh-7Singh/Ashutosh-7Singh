@@ -89,11 +89,11 @@ A blogging platform for tech enthusiasts.
 ---
 
 ### 🏆 Certifications
-- **Frontend Hackathon** - Go Academy 🔗[certificate](https://drive.google.com/file/d/1lk8YOdPEPQcvxoOrfDh3VxJpC_efSo2U/view).
-- **Web Development** - Internshala.
-- **Namaste JavaScript** - Certificate of Completion.
-- **Namaste Node.js** - Certificate of Completion.
-- **Namaste React** - Certificate of Completion.
+- **Frontend Hackathon** - Go Academy. 🔗[certificate](https://drive.google.com/file/d/1lk8YOdPEPQcvxoOrfDh3VxJpC_efSo2U/view).
+- **Web Development** - Internshala.🔗[certificate](https://drive.google.com/file/d/1qin0UdRD4yAMzNYKEuRYViWs1_JYcQmC/view?usp=drive_link)
+- **Namaste JavaScript** - Certificate of Completion.🔗[certificate](https://drive.google.com/file/d/1dwJU7UEgaAIh_NpeD3s7W2DSAbCQADwF/view?usp=sharing)
+- **Namaste Node.js** - Certificate of Completion.🔗[certificate](https://drive.google.com/file/d/1M0UmcgRlCl8uztRB61AOoZxgy-liSAFx/view?usp=sharing)
+- **Namaste React** - Certificate of Completion.🔗[certificate](https://drive.google.com/file/d/1prycjKgVhCrMrL2QVkmL5ZYXq9C7JnQZ/view?usp=sharing)
 
 ---
 
