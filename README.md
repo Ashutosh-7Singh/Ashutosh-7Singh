@@ -121,5 +121,3 @@ A blogging platform for tech enthusiasts.
 ---
 
 <h3 align="center">Let’s build something amazing together! 🚀</h3>
-```
-
