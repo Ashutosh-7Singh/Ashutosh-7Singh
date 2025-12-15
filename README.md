@@ -49,23 +49,50 @@
 
 ---
 
-### 🚀 Featured Projects
 
-#### 🚗 <b>SaaS-based Vehicle Telemetry Dashboard (Ongoing)</b>
-> Real-time fleet management and analytics platform for 1000+ vehicles, featuring role-based access, live tracking, geofencing, and advanced dashboards.
+## 🖼️ Portfolio Showcase
+
+<div align="center">
+
+<a href="#"><img src="https://placehold.co/400x200?text=Vehicle+Telemetry+Dashboard" alt="SaaS-based Vehicle Telemetry Dashboard" width="400"/></a>
+
+<h3>🚗 SaaS-based Vehicle Telemetry Dashboard (Ongoing)</h3>
+<p>Real-time fleet management and analytics platform for 1000+ vehicles, featuring role-based access, live tracking, geofencing, and advanced dashboards.</p>
 <b>Stack:</b> Next.js, TypeScript, MongoDB, Redux, Mantine UI, MapmyIndia API
+<br/>
+<a href="#">🔗 Live Demo (coming soon)</a> | <a href="#">📂 Source Code (private)</a>
 
-#### 🤖 <b>AI Agent Platform (In Progress)</b>
-> Production-grade AI agentic system using LangChain.js, LangGraph.js, and Next.js. Implements RAG, tool-calling, and agent orchestration for real-world use cases.
+<hr width="60%"/>
+
+<a href="#"><img src="https://placehold.co/400x200?text=AI+Agent+Platform" alt="AI Agent Platform" width="400"/></a>
+
+<h3>🤖 AI Agent Platform (In Progress)</h3>
+<p>Production-grade AI agentic system using LangChain.js, LangGraph.js, and Next.js. Implements RAG, tool-calling, and agent orchestration for real-world use cases.</p>
 <b>Stack:</b> LangChain.js, LangGraph.js, TypeScript, Next.js, OpenAI, Gemini
+<br/>
+<a href="#">🔗 Live Demo (coming soon)</a> | <a href="#">📂 Source Code (private)</a>
 
-#### 🕒 <b>Timesheet Management System</b>
-> Track employee hours with a clean and secure interface.
+<hr width="60%"/>
+
+<a href="#"><img src="https://placehold.co/400x200?text=Timesheet+Management+System" alt="Timesheet Management System" width="400"/></a>
+
+<h3>🕒 Timesheet Management System</h3>
+<p>Track employee hours with a clean and secure interface.</p>
 <b>Stack:</b> React.js, Node.js, PostgreSQL
+<br/>
+<a href="#">🔗 Live Demo (coming soon)</a> | <a href="#">📂 Source Code (private)</a>
 
-#### 🧠 <b>Quiz App with Monaco Code Editor</b>
-> Code quizzes with real-time editor experience.
+<hr width="60%"/>
+
+<a href="#"><img src="https://placehold.co/400x200?text=Quiz+App+with+Monaco+Editor" alt="Quiz App with Monaco Code Editor" width="400"/></a>
+
+<h3>🧠 Quiz App with Monaco Code Editor</h3>
+<p>Code quizzes with real-time editor experience.</p>
 <b>Stack:</b> React.js, JavaScript, Monaco Editor
+<br/>
+<a href="#">🔗 Live Demo (coming soon)</a> | <a href="#">📂 Source Code (private)</a>
+
+</div>
 
 ---
 
@@ -125,6 +152,8 @@ Looking to team up on:
 ---
 
 <h3 align="center">Let's build future-proof digital experiences. 🌐</h3>
+
+
 
 
 
