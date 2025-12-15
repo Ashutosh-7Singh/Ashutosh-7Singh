@@ -6,13 +6,7 @@
 
 ---
 
-### 🧑‍💻 About Me
 
-Hi, I’m **Ashutosh Singh**, a <b>Technologist Consultant</b> and <b>Full Stack & AI Engineer</b> passionate about building scalable, secure, and AI-powered web solutions.
-
-💡 <b>Next.js</b> • <b>React</b> • <b>Node.js</b> • <b>TypeScript</b> • <b>LangChain.js</b> • <b>LangGraph.js</b> • <b>MongoDB</b> • <b>Mantine UI</b>
-
----
 
 ### 🌟 What I Do
 
